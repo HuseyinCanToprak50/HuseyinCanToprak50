@@ -33,9 +33,9 @@
 
 ## 📫 İletişim
 
-- LinkedIn: https://linkedin.com/in/huseyincantoprak  
-- [E-posta](hcan.toprak06@gmail.com) 
-- [GitHub](https://github.com/HuseyinCanToprak50)  
+- LinkedIn:https://www.linkedin.com/in/h%C3%BCseyin-can-toprak-3334ab295
+- E-posta:hcan.toprak06@gmail.com
+- GitHub:https://github.com/HuseyinCanToprak50  
 
 ---
 
