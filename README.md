@@ -33,7 +33,7 @@
 
 ## 📫 İletişim
 
-- [LinkedIn]([https://linkedin.com/in/huseyincantoprak])  
+- [LinkedIn](https://linkedin.com/in/huseyincantoprak)  
 - [E-posta](hcan.toprak06@gmail.com) 
 - [GitHub](https://github.com/HuseyinCanToprak50)  
 
